@@ -3,7 +3,7 @@ Or_Reporting_Date,	Se Agrupan por mes de la fecha recibida para detectar anomal�
 Or_D365_AccountNumber,	Se genera aleatoriamente para N consumidores,	String,
 Or_Date_Received,	Se Agrupan por mes de la fecha recibida para detectar anomalías,	YYYY-MM-DD,
 Or_Customer_Name,	Uno para cada D365,	String,
-Or_Manufaturer,	Aristocrats, es constante, puede servir para conteo,	String,
+Or_Manufaturer,	Aristocrats es constante puede servir para conteo,	String,
 Or_Game_Title,	Slot Machine Vector,	String,
 Or_Reporting_Days,	aleatorio entre 20 y 30,	Int,
 Or_Asset_Number,	uno para cada máquina,	String,
