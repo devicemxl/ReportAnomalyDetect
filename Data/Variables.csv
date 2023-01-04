@@ -6,4 +6,4 @@ Or_Customer_Name,	Uno para cada D365,	String,
 Or_Manufaturer,	Aristocrats, es constante, puede servir para conteo,	String,
 Or_Game_Title,	Slot Machine Vector,	String,
 Or_Reporting_Days,	aleatorio entre 20 y 30,	Int,
-Or_Asset_Number,	uno para cada máquina,	String,
+Or_Asset_Number,	uno para cada máquina,	String
